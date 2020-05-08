@@ -78,11 +78,35 @@ Recommended learning materials for each category in [#DevCLokoja7WeeksOfCode](ht
 
 ### Courses
 
-- [Demo]()
+- [Full Stack for Front-End Engineers, v2](https://frontendmasters.com/courses/fullstack-v2/)
+
+- [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
+
+- [Docker for Web Developers](https://www.pluralsight.com/courses/docker-web-development)
+
+- [Learn DevOps: The Complete Kubernetes Course](https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/)
+
+- [Learn DevOps: Infrastructure Automation With Terraform](https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform/)
+
+- [Learn DevOps: Advanced Kubernetes Usage](https://www.udemy.com/course/learn-devops-advanced-kubernetes-usage/)
+
+- [Learn DevOps: On-Prem or Cloud Agnostic Kubernetes](https://www.udemy.com/course/learn-devops-on-prem-or-cloud-agnostic-kubernetes/)
+
+- [Go for JavaScript Developers](https://frontendmasters.com/courses/go-for-js-devs/)
+
+- [Gophercises](https://gophercises.com/)
 
 ### Tutorials
 
 - [DevOps Roadmap](https://roadmap.sh/devops) - Step by step guide for DevOps or any other Operations Role
+
+- [Introduction to Cloud Computing](https://www.youtube.com/watch?v=QYzJl0Zrc4M&t=2s)
+
+- [AWS (Amazon Web Services) Introduction](https://www.youtube.com/watch?v=N89AffsxS-g)
+
+- [Cloud Computing - Introduction](https://www.youtube.com/playlist?list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_)
+
+- [DigitalOcean Tutorial series](https://www.digitalocean.com/community/tutorials)
 
 ---
 
