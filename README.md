@@ -6,15 +6,11 @@
 
 ## Table of Contents
 
-- [Web/ Mobile Development]()
-- [Data Science/ Machine Learning]()
-- [UI/UX Design]()
-- [Cloud Computing]()
+- [Web/ Mobile Development](https://github.com/devclokoja/resources#web-mobile-development)
+- [Data Science/ Machine Learning](https://github.com/devclokoja/resources#data-science-machine-learning)
+- [UI/UX Design](https://github.com/devclokoja/resources#uiux-design)
+- [Cloud Computing](https://github.com/devclokoja/resources#cloud-computing)
 - [Technical Writing]()
-
-- [Courses](#courses)
-- [Tutorials](#tutorials)
-- [Books](#books)
 
 ---
 
@@ -118,7 +114,7 @@
 
 ---
 
-## Cloud Computing
+## Technical Writing
 
 ### [Courses](#courses)
 
