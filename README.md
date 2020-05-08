@@ -62,10 +62,7 @@
 
 ### Courses
 
-* [Hashnode](https://hashnode.com/)
-* [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
-* [Google's Season of Docs](https://developers.google.com/season-of-docs/)
-* [freeCodeCamp News](https://www.freecodecamp.org/news/)
+- [Demo]()
 
 ### Tutorials
 
@@ -89,17 +86,20 @@
 
 ### Courses
 
-* [Hashnode](https://hashnode.com/)
-* [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
-* [Google's Season of Docs](https://developers.google.com/season-of-docs/)
-* [freeCodeCamp News](https://www.freecodecamp.org/news/)
+- [Study technical writing](https://developers.google.com/tech-writing/overview)
+- [Technical Writing: Documentation on Software Projects](https://www.pluralsight.com/courses/technical-writing-software-documentation)
+- [Coding for Writers: Basic Programming](https://www.udemy.com/course/coding-for-writers-1-basic-programming/)
+- [Class Central Technical Writing](https://www.classcentral.com/course/technical-writing-7117)
+- [Professional Technical Writing: Advance Your Writing Skills](https://www.udemy.com/technical-writing-and-editing/)
+- [Technical Writing: Master Your Writing Career](https://www.udemy.com/technical-writing/)
 
 ### Tutorials
 
-* [Hashnode](https://hashnode.com/)
-* [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
-* [Google's Season of Docs](https://developers.google.com/season-of-docs/)
-* [freeCodeCamp News](https://www.freecodecamp.org/news/)
+- [The Ultimate Guide to Content Creation](https://blog.hubspot.com/marketing/content-creation)
+- [How to Create Great Content: A Step-by-Step Guide to Content Marketing That Delivers Real Results](https://www.inc.com/jeff-haden/how-to-create-great-content-a-step-by-step-guide-to-content-marketing-that-delivers-real-results.html)
+- [9 Tips to Become the Best Content Creator in Your Industry](https://www.weidert.com/blog/tips-to-make-you-the-best-content-creator-in-your-industry)
+- [Advice for Technical Writing](https://css-tricks.com/advice-for-technical-writing/)
+- [Becoming a Technical Writer at Google](https://developers.google.com/tech-writing/becoming)
 
 ---                                                                                                                         
 
