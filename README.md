@@ -2,7 +2,7 @@
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1588914178079/FuU9rJRtU.png)
 
- Recommended learning materials for each category in [#DevCLokoja7WeeksOfCode](https://github.com/devclokoja/7WeeksOfCode).
+Recommended learning materials for each category in [#DevCLokoja7WeeksOfCode](https://github.com/devclokoja/7WeeksOfCode).
 
 ## Table of Contents
 
@@ -34,6 +34,8 @@
 - [React Native Tutorial for Beginners - Crash Course 2020](https://www.youtube.com/watch?v=qSRrxpdMpVc)
 - [Swift Programming Tutorial for Beginners (Full Tutorial)](https://www.youtube.com/watch?v=Ulp1Kimblg0)
 - [Flutter Tutorial for Beginners - Build iOS and Android Apps with Google's Flutter & Dart](https://www.youtube.com/watch?v=GLSG_Wh_YWc)
+- [Learn CSS Grid With Wes Bos](https://cssgrid.io/)
+- [Flexbox - A simple, free 20 video course that will help you master CSS Flexbox!](https://flexbox.io/) by @Wesbos
 
 ### Tutorials
 
@@ -43,6 +45,8 @@
 - [Android Developer Roadmap 2020](https://github.com/mobile-roadmap/android-developer-roadmap)
 - [Awesome Web Development Resources](https://github.com/mrmartineau/awesome-web-dev-resources)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
+- [Learn CSS Grid - A Guide to Learning CSS Grid by Jonathan Suh](https://learncssgrid.com/)
+- [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com)
 
 ---
 
@@ -101,7 +105,8 @@
 - [Advice for Technical Writing](https://css-tricks.com/advice-for-technical-writing/)
 - [Becoming a Technical Writer at Google](https://developers.google.com/tech-writing/becoming)
 
----                                                                                                                         
+---
 
 ## Contributing
+
 Want to add a resource you can recommend? Please send a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
