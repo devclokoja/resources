@@ -10,27 +10,27 @@
 - [Data Science/ Machine Learning](https://github.com/devclokoja/resources#data-science-machine-learning)
 - [UI/UX Design](https://github.com/devclokoja/resources#uiux-design)
 - [Cloud Computing](https://github.com/devclokoja/resources#cloud-computing)
-- [Technical Writing]()
+- [Technical Writing](https://github.com/devclokoja/resources#technical-writing)
 
 ---
 
 ## Web/ Mobile Development
 
-### [Courses](#courses)
+### Courses
 
 * [Hashnode](https://hashnode.com/)
 * [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 * [Google's Season of Docs](https://developers.google.com/season-of-docs/)
 * [freeCodeCamp News](https://www.freecodecamp.org/news/)
 
-### [Tutorials](#tutorials)
+### Tutorials
 
 * [Hashnode](https://hashnode.com/)
 * [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 * [Google's Season of Docs](https://developers.google.com/season-of-docs/)
 * [freeCodeCamp News](https://www.freecodecamp.org/news/)
 
-### [Books](#books)
+### Books
 
 * [Hashnode](https://hashnode.com/)
 * [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
@@ -41,21 +41,21 @@
 
 ## Data Science/ Machine Learning
 
-### [Courses](#courses)
+### Courses
 
 * [Hashnode](https://hashnode.com/)
 * [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 * [Google's Season of Docs](https://developers.google.com/season-of-docs/)
 * [freeCodeCamp News](https://www.freecodecamp.org/news/)
 
-### [Tutorials](#tutorials)
+### Tutorials
 
 * [Hashnode](https://hashnode.com/)
 * [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 * [Google's Season of Docs](https://developers.google.com/season-of-docs/)
 * [freeCodeCamp News](https://www.freecodecamp.org/news/)
 
-### [Books](#books)
+### Books
 
 * [Hashnode](https://hashnode.com/)
 * [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
@@ -66,21 +66,21 @@
 
 ## UI/UX Design
 
-### [Courses](#courses)
+### Courses
 
 * [Hashnode](https://hashnode.com/)
 * [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 * [Google's Season of Docs](https://developers.google.com/season-of-docs/)
 * [freeCodeCamp News](https://www.freecodecamp.org/news/)
 
-### [Tutorials](#tutorials)
+### Tutorials
 
 * [Hashnode](https://hashnode.com/)
 * [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 * [Google's Season of Docs](https://developers.google.com/season-of-docs/)
 * [freeCodeCamp News](https://www.freecodecamp.org/news/)
 
-### [Books](#books)
+### Books
 
 * [Hashnode](https://hashnode.com/)
 * [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
@@ -91,21 +91,21 @@
 
 ## Cloud Computing
 
-### [Courses](#courses)
+### Courses
 
 * [Hashnode](https://hashnode.com/)
 * [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 * [Google's Season of Docs](https://developers.google.com/season-of-docs/)
 * [freeCodeCamp News](https://www.freecodecamp.org/news/)
 
-### [Tutorials](#tutorials)
+### Tutorials
 
 * [Hashnode](https://hashnode.com/)
 * [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 * [Google's Season of Docs](https://developers.google.com/season-of-docs/)
 * [freeCodeCamp News](https://www.freecodecamp.org/news/)
 
-### [Books](#books)
+### Books
 
 * [Hashnode](https://hashnode.com/)
 * [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
@@ -116,21 +116,21 @@
 
 ## Technical Writing
 
-### [Courses](#courses)
+### Courses
 
 * [Hashnode](https://hashnode.com/)
 * [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 * [Google's Season of Docs](https://developers.google.com/season-of-docs/)
 * [freeCodeCamp News](https://www.freecodecamp.org/news/)
 
-### [Tutorials](#tutorials)
+### Tutorials
 
 * [Hashnode](https://hashnode.com/)
 * [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 * [Google's Season of Docs](https://developers.google.com/season-of-docs/)
 * [freeCodeCamp News](https://www.freecodecamp.org/news/)
 
-### [Books](#books)
+### Books
 
 * [Hashnode](https://hashnode.com/)
 * [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
