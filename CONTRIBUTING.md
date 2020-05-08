@@ -21,10 +21,8 @@ Ensure your pull request adheres to the following guidelines:
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
   > :information_source: You can use an emoji, only before the Title-Cased Description.
-- When adding to the `Technical Writers to Follow` category, please add a link to their Blog and Twitter without breaking the table
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
-- New categories or improvements to the existing `Table of Contents` are welcome.
 - Pull requests should have a useful title and description.
 - The body of your commit message should contain a link to the resource.
 
