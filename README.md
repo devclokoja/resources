@@ -48,6 +48,11 @@ Recommended learning materials for each category in [#DevCLokoja7WeeksOfCode](ht
 - [Learn CSS Grid - A Guide to Learning CSS Grid by Jonathan Suh](https://learncssgrid.com/)
 - [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com)
 
+### Others
+
+- [GitHub Pages](https://pages.github.com/),[Netlify](https://www.netlify.com/),[Vercel (Zeit) Now](https://vercel.com/),[Surge](https://surge.sh/) - Host frontend apps and static sites for free.
+- [Heroku](https://www.heroku.com/) - Host your server side applications for free.
+
 ---
 
 ## Data Science/ Machine Learning
@@ -57,7 +62,7 @@ Recommended learning materials for each category in [#DevCLokoja7WeeksOfCode](ht
 - [John Hopkins University crash course (Coursera)](https://www.classcentral.com/course/data-science-crash-course-4392)
 - [Introduction to Data Science using Python](https://www.udemy.com/introduction-to-data-science-using-python/)
 - [Intro to Python for Data Science](https://courses.springboard.com/p/intro-to-python-course-data-science?src=hellobar)
-- [ Understanding and Visualizing Data with Python from Coursera](https://www.classcentral.com/course/understanding-visualization-data-12647)
+- [Understanding and Visualizing Data with Python from Coursera](https://www.classcentral.com/course/understanding-visualization-data-12647)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 - [Machine Learning Crash Course - Google Digital Skills for Africa](https://learndigital.withgoogle.com/digitalskills/course/machine-learning-crash-course)
 - [Machine Learning Crash Course - freecodecamp](https://www.freecodecamp.org/news/machine-learning-crash-course/)
@@ -66,8 +71,6 @@ Recommended learning materials for each category in [#DevCLokoja7WeeksOfCode](ht
 - [Data Science Crash Course](https://www.youtube.com/watch?v=54qpyE60Ies)
 - [Learn Data Science Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=ua-CiDNNj30)
 - [Data Science Full Course - Learn Data Science in 10 Hours | Data Science For Beginners | Edureka](https://www.youtube.com/watch?v=-ETQ97mXXF0)
-
-
 
 ### Tutorials
 
@@ -78,14 +81,13 @@ Recommended learning materials for each category in [#DevCLokoja7WeeksOfCode](ht
 - [Handbook of Data Visualization](https://haralick.org/DV/Handbook_of_Data_Visualization.pdf)
 - [Introduction to Data Visualization Techniques](https://sites.tufts.edu/gis/files/2016/02/Introduction_to_Data_Visualization.pdf)
 - [Fundamentals of Data Visualization](http://dl.booktolearn.com/ebooks2/computer/graphics/9781492031086_Fundamentals_of_Data_Visualization_0a8c.pdf)
-- [MachineLearning in R__Brett_Lantz](https://edu.kpfu.ru/pluginfile.php/278552/mod_resource/content/1/MachineLearningR__Brett_Lantz.pdf)
+- [MachineLearning in R\_\_Brett_Lantz](https://edu.kpfu.ru/pluginfile.php/278552/mod_resource/content/1/MachineLearningR__Brett_Lantz.pdf)
 - [Practical Machine Learning in R - Introduction](http://www.cs.uwyo.edu/~larsko/ml-fac/00-intro.pdf)
 - [Python Machine Learning - Second Edition](http://diggerdnepr.ddns.net/wp-content/uploads/2019/02/python-machine-learning-2nd.pdf)
 - [Introduction to Machine Learning Using Python](https://in.pycon.org/2011/static/files/talks/11/Introduction_To_ML_Partial_2.pdf)
 - [machine_learning_with_python_tutorial](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf)
 - [Python Machine Learning Projects](https://assets.digitalocean.com/books/python/machine-learning-projects-python.pdf)
 - [Machine Learning in Python -machine-learning-python-essential-techniques-predictive-analysis](https://pythonizame.s3.amazonaws.com/media/Book/machine-learning-python-essential-techniques-predictive-analysis/file/008c0aac-9784-11e5-964d-04015fb6ba01.pdf)
-
 
 ---
 
