@@ -1,8 +1,6 @@
-# resources
-
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1588914178079/FuU9rJRtU.png)
 
-Recommended learning materials for each category in [#DevCLokoja7WeeksOfCode](https://github.com/devclokoja/7WeeksOfCode).
+Recommended FREE learning resources for each category in [#DevCLokoja7WeeksOfCode](https://github.com/devclokoja/7WeeksOfCode).
 
 ## Table of Contents
 
