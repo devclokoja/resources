@@ -6,7 +6,7 @@ Recommended learning materials for each category in [#DevCLokoja7WeeksOfCode](ht
 
 ## Table of Contents
 
-- [Prerequisite]()
+- [Prerequisite](https://github.com/devclokoja/resources#prerequisite)
 - [Web/ Mobile Development](https://github.com/devclokoja/resources#web-mobile-development)
 - [Data Science/ Machine Learning](https://github.com/devclokoja/resources#data-science-machine-learning)
 - [UI/UX Design](https://github.com/devclokoja/resources#uiux-design)
@@ -17,13 +17,14 @@ Recommended learning materials for each category in [#DevCLokoja7WeeksOfCode](ht
 
 ## Prerequisite
 
+- [Introducing How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM)
 - [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M)
 - [Introduction to Programming and Computer Science - Full Course](https://www.youtube.com/watch?v=zOjov-2OZ0E)
 - [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
 ## Web/ Mobile Development
 
-- Frontend Developer Roadmap](https://roadmap.sh/frontend) - Step by step guide to becoming a modern frontend developer
+- [Frontend Developer Roadmap](https://roadmap.sh/frontend) - Step by step guide to becoming a modern frontend developer
 - [Backend Developer Roadmap](https://roadmap.sh/backend) - Step by step guide to becoming a modern backend developer
 - [Android Developer Roadmap 2020](https://github.com/mobile-roadmap/android-developer-roadmap)
 - [Awesome Web Development Resources](https://github.com/mrmartineau/awesome-web-dev-resources)
@@ -38,7 +39,7 @@ Recommended learning materials for each category in [#DevCLokoja7WeeksOfCode](ht
 - [Node.js For Beginners](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
 - [React JS Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A)
 - [Vue JS Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U)
-- [Learn Python - Full Course for Beginners [Tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw)
+- [Learn Python - Full Course for Beginners Tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw)
 - [Python Django Tutorial 2020 - Full Course for Beginners](https://www.youtube.com/watch?v=JT80XhYJdBw)
 - [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)
 - [Top 5 Programming Languages in 2020 for Building Mobile Apps](https://www.youtube.com/watch?v=svGztRj5bvs)
@@ -59,15 +60,25 @@ Recommended learning materials for each category in [#DevCLokoja7WeeksOfCode](ht
 
 ## UI/UX Design
 
+- [What is UI vs. UX Design? A Practical Example in Under 6 Minutes](https://www.youtube.com/watch?v=TgqeRTwZvIo)
+- [Become a Better Designer in 100 Days](https://www.dailyui.co/)
 - [Design Resources For Developers](https://github.com/bradtraversy/design-resources-for-developers)
+- [How to become a UI UX Designer - 6 things you must master for your UI UX Design Career](https://www.youtube.com/watch?v=vN17OtTFse0)
+- [Learn UI Design](https://learnui.design/)
+- [Complete Beginner's Guide on How to Learn UI Design](https://www.mockplus.com/blog/post/learn-ui-design)
+- [Master the basics of visual: how to become a self-taught UI/UX designer](https://www.coursera.org/specializations/ui-ux-design)
+- [UI / UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design)
+- [Learn UX design and grow your career](https://www.interaction-design.org/courses?ep=ux-planet)
 
 
 ## Cloud Computing
 
 - [DevOps Roadmap](https://roadmap.sh/devops) - Step by step guide for DevOps or any other Operations Role
+- [How To Become A DevOps Engineer? | DevOps Engineer Roadmap | DevOps Training | Edureka](https://www.youtube.com/watch?v=89iUP6fqAqk)
 
 ## Technical Writing
 
+- [How to Become a Technical Writer](https://www.youtube.com/watch?v=9Jh-X_RlV4Y)
 - [Study technical writing](https://developers.google.com/tech-writing/overview)
 - [Technical Writing: Documentation on Software Projects](https://www.pluralsight.com/courses/technical-writing-software-documentation)
 - [Coding for Writers: Basic Programming](https://www.udemy.com/course/coding-for-writers-1-basic-programming/)
@@ -75,8 +86,6 @@ Recommended learning materials for each category in [#DevCLokoja7WeeksOfCode](ht
 - [Professional Technical Writing: Advance Your Writing Skills](https://www.udemy.com/technical-writing-and-editing/)
 - [Technical Writing: Master Your Writing Career](https://www.udemy.com/technical-writing/)
 - [The Ultimate Guide to Content Creation](https://blog.hubspot.com/marketing/content-creation)
-- [How to Create Great Content: A Step-by-Step Guide to Content Marketing That Delivers Real Results](https://www.inc.com/jeff-haden/how-to-create-great-content-a-step-by-step-guide-to-content-marketing-that-delivers-real-results.html)
-- [9 Tips to Become the Best Content Creator in Your Industry](https://www.weidert.com/blog/tips-to-make-you-the-best-content-creator-in-your-industry)
 - [Advice for Technical Writing](https://css-tricks.com/advice-for-technical-writing/)
 - [Becoming a Technical Writer at Google](https://developers.google.com/tech-writing/becoming)
 
