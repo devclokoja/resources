@@ -58,6 +58,19 @@ Recommended FREE learning resources for each category in [#DevCLokoja7WeeksOfCod
 - [Machine Learning Basics | What Is Machine Learning? | Introduction To Machine Learning | Simplilearn](https://www.youtube.com/watch?v=ukzFI9rgwfU)
 - [Machine Learning Full Course - Learn Machine Learning 10 Hours | Machine Learning Tutorial | Edureka](https://www.youtube.com/watch?v=GwIo3gDZCVQ&list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)
 - [Machine Learning with Python | Machine Learning Tutorial for Beginners | Machine Learning Tutorial](https://www.youtube.com/watch?v=RnFGwxJwx-0)
+- [Introduction to Data Science using Python](https://www.udemy.com/introduction-to-data-science-using-python/)
+- [Intro to Python for Data Science](https://courses.springboard.com/p/intro-to-python-course-data-science?src=hellobar)
+- [ Understanding and Visualizing Data with Python from Coursera](https://www.classcentral.com/course/understanding-visualization-data-12647)
+- [Learn Python, Data Viz, Pandas & More | Tutorials](https://www.kaggle.com/learn/overview)
+- [Data Science from Scratch: First Principles with Python](https://www.semanticscholar.org/paper/Data-Science-from-Scratch%3A-First-Principles-with-Grus/217905fe7b549d5f3d45896072518b06adb8dd98)
+- [INTRODUCTION TO DATA SCIENCE WITH PYTHON](http://www.ef.uni-lj.si/media/document_files/doktorski_program/ucni_nacrti/Introduction_to_Data_Science_with_Python.pdf)
+- [Data Science from Scratch: First Principles with Python](http://math.ecnu.edu.cn/~lfzhou/seminar/[Joel_Grus]_Data_Science_from_Scratch_First_Princ.pdf)
+- [Fundamentals of Data Visualization](http://dl.booktolearn.com/ebooks2/computer/graphics/9781492031086_Fundamentals_of_Data_Visualization_0a8c.pdf)
+- [MachineLearning in R__Brett_Lantz](https://edu.kpfu.ru/pluginfile.php/278552/mod_resource/content/1/MachineLearningR__Brett_Lantz.pdf)
+- [Practical Machine Learning in R - Introduction](http://www.cs.uwyo.edu/~larsko/ml-fac/00-intro.pdf)
+- [Python Machine Learning - Second Edition](http://diggerdnepr.ddns.net/wp-content/uploads/2019/02/python-machine-learning-2nd.pdf)
+- [Introduction to Machine Learning Using Python](https://in.pycon.org/2011/static/files/talks/11/Introduction_To_ML_Partial_2.pdf)
+- [machine_learning_with_python_tutorial](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf)
 
 ## UI/UX Design
 
