@@ -19,6 +19,9 @@ Recommended FREE learning resources for each category in [#DevCLokoja7WeeksOfCod
 - [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M)
 - [Introduction to Programming and Computer Science - Full Course](https://www.youtube.com/watch?v=zOjov-2OZ0E)
 - [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [How the Web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+- [What is a URL?, Anatomy of a URL](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
+- [What is Domain Name and how DNS works?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
 
 ## Web/ Mobile Development
 
@@ -80,7 +83,6 @@ Recommended FREE learning resources for each category in [#DevCLokoja7WeeksOfCod
 - [Master the basics of visual: how to become a self-taught UI/UX designer](https://www.coursera.org/specializations/ui-ux-design)
 - [UI / UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design)
 - [Learn UX design and grow your career](https://www.interaction-design.org/courses?ep=ux-planet)
-
 
 ## Cloud Computing
 
