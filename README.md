@@ -57,6 +57,16 @@ Recommended FREE learning resources for each category in [#DevCLokoja7WeeksOfCod
 - [Learn Data Science Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=ua-CiDNNj30)
 - [Machine Learning Basics - Introduction To Machine Learning](https://www.youtube.com/watch?v=ukzFI9rgwfU)
 - [Machine Learning Full Course - Learn Machine Learning 10 Hours](https://www.youtube.com/watch?v=GwIo3gDZCVQ&list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)
+- [Introduction to Data Science using Python](https://www.udemy.com/introduction-to-data-science-using-python/)
+- [Intro to Python for Data Science](https://courses.springboard.com/p/intro-to-python-course-data-science?src=hellobar)
+- [Understanding and Visualizing Data with Python from Coursera](https://www.classcentral.com/course/understanding-visualization-data-12647)
+- [Learn Python, Data Viz, Pandas & More](https://www.kaggle.com/learn/overview)
+- [Data Science from Scratch: First Principles with Python](https://www.semanticscholar.org/paper/Data-Science-from-Scratch%3A-First-Principles-with-Grus/217905fe7b549d5f3d45896072518b06adb8dd98)
+- [Fundamentals of Data Visualization](http://dl.booktolearn.com/ebooks2/computer/graphics/9781492031086_Fundamentals_of_Data_Visualization_0a8c.pdf)
+- [Practical Machine Learning in R - Introduction](http://www.cs.uwyo.edu/~larsko/ml-fac/00-intro.pdf)
+- [Machine Learning With Python Tutorial](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf)
+- [Machine Learning Basics - Introduction To Machine Learning](https://www.youtube.com/watch?v=ukzFI9rgwfU)
+- [Machine Learning Full Course - Learn Machine Learning 10 Hours](https://www.youtube.com/watch?v=GwIo3gDZCVQ&list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)
 - [Machine Learning with Python - Machine Learning Tutorial for Beginners](https://www.youtube.com/watch?v=RnFGwxJwx-0)
 
 ## UI/UX Design
