@@ -42,7 +42,7 @@ Recommended FREE learning resources for each category in [#DevCLokoja7WeeksOfCod
 - [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)
 - [Top 5 Programming Languages in 2020 for Building Mobile Apps](https://www.youtube.com/watch?v=svGztRj5bvs)
 - [How to become an Android Developer](https://www.youtube.com/watch?v=VkGTiR8ZMVA)
-- [Android Full Course - Learn Android in 9 Hours | Android Development Tutorial for Beginners| Edureka](https://www.youtube.com/watch?v=aS__9RbCyHg)
+- [Android Full Course - Learn Android in 9 Hours](https://www.youtube.com/watch?v=aS__9RbCyHg)
 - [iOS Tutorial (2020): How To Make Your First App](https://www.youtube.com/watch?v=09TeUXjzpKs)
 - [React Native Tutorial for Beginners - Crash Course 2020](https://www.youtube.com/watch?v=qSRrxpdMpVc)
 - [Swift Programming Tutorial for Beginners (Full Tutorial)](https://www.youtube.com/watch?v=Ulp1Kimblg0)
@@ -52,12 +52,12 @@ Recommended FREE learning resources for each category in [#DevCLokoja7WeeksOfCod
 ## Data Science/ Machine Learning
 
 - [What REALLY is Data Science? Told by a Data Scientist](https://www.youtube.com/watch?v=xC-c7E5PK0Y)
-- [What is Data Science? | Free Data Science Course | Data Science for Beginners | codebasics](https://www.youtube.com/watch?v=JL_grPUnXzY&list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV)
-- [Data Science Full Course - Learn Data Science in 10 Hours | Data Science For Beginners | Edureka](https://www.youtube.com/watch?v=-ETQ97mXXF0)
+- [What is Data Science? - Free Data Science Course for Beginners](https://www.youtube.com/watch?v=JL_grPUnXzY&list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV)
+- [Data Science Full Course - Learn Data Science in 10 Hours](https://www.youtube.com/watch?v=-ETQ97mXXF0)
 - [Learn Data Science Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=ua-CiDNNj30)
-- [Machine Learning Basics | What Is Machine Learning? | Introduction To Machine Learning | Simplilearn](https://www.youtube.com/watch?v=ukzFI9rgwfU)
-- [Machine Learning Full Course - Learn Machine Learning 10 Hours | Machine Learning Tutorial | Edureka](https://www.youtube.com/watch?v=GwIo3gDZCVQ&list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)
-- [Machine Learning with Python | Machine Learning Tutorial for Beginners | Machine Learning Tutorial](https://www.youtube.com/watch?v=RnFGwxJwx-0)
+- [Machine Learning Basics - Introduction To Machine Learning](https://www.youtube.com/watch?v=ukzFI9rgwfU)
+- [Machine Learning Full Course - Learn Machine Learning 10 Hours](https://www.youtube.com/watch?v=GwIo3gDZCVQ&list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)
+- [Machine Learning with Python - Machine Learning Tutorial for Beginners](https://www.youtube.com/watch?v=RnFGwxJwx-0)
 
 ## UI/UX Design
 
@@ -75,7 +75,7 @@ Recommended FREE learning resources for each category in [#DevCLokoja7WeeksOfCod
 ## Cloud Computing
 
 - [DevOps Roadmap](https://roadmap.sh/devops) - Step by step guide for DevOps or any other Operations Role
-- [How To Become A DevOps Engineer? | DevOps Engineer Roadmap | DevOps Training | Edureka](https://www.youtube.com/watch?v=89iUP6fqAqk)
+- [How To Become A DevOps Engineer? - DevOps Engineer Roadmap](https://www.youtube.com/watch?v=89iUP6fqAqk)
 
 ## Technical Writing
 
