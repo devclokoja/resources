@@ -55,6 +55,9 @@ Recommended FREE learning resources for each category in [#DevCLokoja7WeeksOfCod
 - [What is Data Science? | Free Data Science Course | Data Science for Beginners | codebasics](https://www.youtube.com/watch?v=JL_grPUnXzY&list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV)
 - [Data Science Full Course - Learn Data Science in 10 Hours | Data Science For Beginners | Edureka](https://www.youtube.com/watch?v=-ETQ97mXXF0)
 - [Learn Data Science Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=ua-CiDNNj30)
+- [Machine Learning Basics | What Is Machine Learning? | Introduction To Machine Learning | Simplilearn](https://www.youtube.com/watch?v=ukzFI9rgwfU)
+- [Machine Learning Full Course - Learn Machine Learning 10 Hours | Machine Learning Tutorial | Edureka](https://www.youtube.com/watch?v=GwIo3gDZCVQ&list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)
+- [Machine Learning with Python | Machine Learning Tutorial for Beginners | Machine Learning Tutorial](https://www.youtube.com/watch?v=RnFGwxJwx-0)
 
 ## UI/UX Design
 
