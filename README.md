@@ -53,6 +53,9 @@ Recommended FREE learning resources for each category in [#DevCLokoja7WeeksOfCod
 - [Swift Programming Tutorial for Beginners (Full Tutorial)](https://www.youtube.com/watch?v=Ulp1Kimblg0)
 - [Dart Programming Tutorial - Full Course](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
 - [Flutter Tutorial for Beginners - Build iOS and Android Apps with Google's Flutter & Dart](https://www.youtube.com/watch?v=GLSG_Wh_YWc)
+- [Learn CSS Grid With WES BOS In 25 Pretty Good Videos](https://cssgrid.io/)
+- [WHAT THE FLEXBOX?! A simple, free 20 video course that will help you master CSS Flexbox!](https://flexbox.io/)
+- [A guide to learning CSS grid by Jonathan Suh](https://learncssgrid.com/)
 
 ## Data Science/ Machine Learning
 
