@@ -36,6 +36,7 @@ Recommended FREE learning resources for each category in [#DevCLokoja7WeeksOfCod
 - [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
 - [CSS Crash Course](https://www.youtube.com/watch?v=yfoY53QXEnI)
 - [Learn JavaScript Es6 -Beginner Crash Course](https://drive.google.com/open?id=1gBGf9QfmJaZP3KVXMXrHB9IaK7EsHeki)
+- [FlexBox Game](https://flexboxfroggy.com)
 - [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 - [Node.js For Beginners](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
@@ -89,6 +90,23 @@ Recommended FREE learning resources for each category in [#DevCLokoja7WeeksOfCod
 
 - [DevOps Roadmap](https://roadmap.sh/devops) - Step by step guide for DevOps or any other Operations Role
 - [How To Become A DevOps Engineer? - DevOps Engineer Roadmap](https://www.youtube.com/watch?v=89iUP6fqAqk)
+- [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
+- [Introduction to Cloud Computing](https://www.youtube.com/watch?v=QYzJl0Zrc4M&t=2s)
+- [AWS (Amazon Web Services) Introduction](https://www.youtube.com/watch?v=N89AffsxS-g)
+- [Cloud Computing - Introduction](https://www.youtube.com/playlist?list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_)
+- [DigitalOcean Tutorial series](https://www.digitalocean.com/community/tutorials)
+- [Gophercises](https://gophercises.com/)
+- [Google Cloud Platform Fundamentals for AWS Professionals](https://www.coursera.org/learn/gcp-fundamentals-aws)
+- [Cloud Computing Basics (Cloud 101)](https://www.coursera.org/learn/cloud-computing-basics)
+- [Cloud Computing Management](https://www.edx.org/course/cloud-computing-management)
+- [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-to-cloud-infrastructure-technologies)
+- [Introduction to Azure](https://docs.microsoft.com/en-us/learn/azure/)
+- [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
+- [Docker for Web Developers](https://www.pluralsight.com/courses/docker-web-development)
+- [Learn DevOps: The Complete Kubernetes Course](https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/)
+- [Learn DevOps: Infrastructure Automation With Terraform](https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform/)
+- [Learn DevOps: Advanced Kubernetes Usage](https://www.udemy.com/course/learn-devops-advanced-kubernetes-usage/)
+- [Learn DevOps: On-Prem or Cloud Agnostic Kubernetes](https://www.udemy.com/course/learn-devops-on-prem-or-cloud-agnostic-kubernetes/)
 
 ## Technical Writing
 
