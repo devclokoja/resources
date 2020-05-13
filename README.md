@@ -89,7 +89,6 @@ Recommended FREE learning resources for each category in [#DevCLokoja7WeeksOfCod
 - [DevOps Roadmap](https://roadmap.sh/devops) - Step by step guide for DevOps or any other Operations Role
 - [How To Become A DevOps Engineer? - DevOps Engineer Roadmap](https://www.youtube.com/watch?v=89iUP6fqAqk)
 - [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
-- [DevOps Roadmap](https://roadmap.sh/devops) - Step by step guide for DevOps or any other Operations Role
 - [Introduction to Cloud Computing](https://www.youtube.com/watch?v=QYzJl0Zrc4M&t=2s)
 - [AWS (Amazon Web Services) Introduction](https://www.youtube.com/watch?v=N89AffsxS-g)
 - [Cloud Computing - Introduction](https://www.youtube.com/playlist?list=PLJcaPjxegjBWWtJHeKzGTTa5JF4UrO2o_)
