@@ -35,6 +35,7 @@ Recommended FREE learning resources for each category in [#DevCLokoja7WeeksOfCod
 - [Become a Web Developer.](https://www.codecademy.com/learn/paths/web-development)
 - [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
 - [CSS Crash Course](https://www.youtube.com/watch?v=yfoY53QXEnI)
+- [Learn JavaScript Es6 -Beginner Crash Course](https://drive.google.com/open?id=1gBGf9QfmJaZP3KVXMXrHB9IaK7EsHeki)
 - [FlexBox Game](https://flexboxfroggy.com)
 - [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
