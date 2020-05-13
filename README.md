@@ -96,6 +96,16 @@ Recommended learning materials for each category in [#DevCLokoja7WeeksOfCode](ht
 
 - [Gophercises](https://gophercises.com/)
 
+- [Google Cloud Platform Fundamentals for AWS Professionals](https://www.coursera.org/learn/gcp-fundamentals-aws)
+
+- [Cloud Computing Basics (Cloud 101)](https://www.coursera.org/learn/cloud-computing-basics)
+
+- [Cloud Computing Management](https://www.edx.org/course/cloud-computing-management)
+  
+- [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-to-cloud-infrastructure-technologies)
+
+- [Introduction to Azure](https://docs.microsoft.com/en-us/learn/azure/)
+
 ### Tutorials
 
 - [DevOps Roadmap](https://roadmap.sh/devops) - Step by step guide for DevOps or any other Operations Role
