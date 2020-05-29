@@ -2,6 +2,10 @@
 
 Recommended FREE learning resources for each category in [#DevCLokoja7WeeksOfCode](https://github.com/devclokoja/7WeeksOfCode).
 
+Check out our [resources hub for Developer Circles from Facebook](https://www.developercircleresources.com)! Here, you’ll find additional training materials and content to help you learn, collaborate, and grow.
+
+This resources hub makes additional training materials available through the below Learning Paths, to help you focus on building out your skillset in the key areas you’re passionate about.
+
 ## Table of Contents
 
 - [Prerequisite](https://github.com/devclokoja/resources#prerequisite)
