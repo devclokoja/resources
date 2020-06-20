@@ -58,6 +58,10 @@ This resources hub makes additional training materials available through the bel
 - [Dart Programming Tutorial - Full Course](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
 - [Flutter Tutorial for Beginners - Build iOS and Android Apps with Google's Flutter & Dart](https://www.youtube.com/watch?v=GLSG_Wh_YWc)
 
+- [Python Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
+- [Python Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+
 ## Data Science/ Machine Learning
 
 - [What REALLY is Data Science? Told by a Data Scientist](https://www.youtube.com/watch?v=xC-c7E5PK0Y)
