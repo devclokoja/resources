@@ -31,6 +31,9 @@ This resources hub makes additional training materials available through the bel
 
 - [Frontend Developer Roadmap](https://roadmap.sh/frontend) - Step by step guide to becoming a modern frontend developer
 - [Backend Developer Roadmap](https://roadmap.sh/backend) - Step by step guide to becoming a modern backend developer
+- [The 2020 Beginner’s Guide to Backend Development](https://learntocodewith.me/posts/backend-development/)
+- [Backend Project ideas for beginners](https://dev.to/andrewchou/looking-for-back-end-project-ideas-for-beginners-ond)
+- [Tips for Beginning Backend Web Developers to Advance Quickly](https://dzone.com/articles/5-beginner-tips-for-backend-web-developers-to-adva)
 - [Android Developer Roadmap 2020](https://github.com/mobile-roadmap/android-developer-roadmap)
 - [Awesome Web Development Resources](https://github.com/mrmartineau/awesome-web-dev-resources)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
