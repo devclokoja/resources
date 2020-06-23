@@ -47,6 +47,8 @@ This resources hub makes additional training materials available through the bel
 - [React JS Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A)
 - [Vue JS Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U)
 - [Learn Python - Full Course for Beginners Tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw)
+- [Python Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- [Python Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 - [Python Django Tutorial 2020 - Full Course for Beginners](https://www.youtube.com/watch?v=JT80XhYJdBw)
 - [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)
 - [Top 5 Programming Languages in 2020 for Building Mobile Apps](https://www.youtube.com/watch?v=svGztRj5bvs)
