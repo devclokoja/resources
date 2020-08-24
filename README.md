@@ -82,6 +82,7 @@ This resources hub makes additional training materials available through the bel
 - [Machine Learning Basics - Introduction To Machine Learning](https://www.youtube.com/watch?v=ukzFI9rgwfU)
 - [Machine Learning Full Course - Learn Machine Learning 10 Hours](https://www.youtube.com/watch?v=GwIo3gDZCVQ&list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)
 - [Machine Learning with Python - Machine Learning Tutorial for Beginners](https://www.youtube.com/watch?v=RnFGwxJwx-0)
+- [Introduction to Deep Learning using Python - MIT 6.S191](https://www.youtube.com/user/Zan560)
 
 ## UI/UX Design
 
